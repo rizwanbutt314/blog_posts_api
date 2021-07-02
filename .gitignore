@@ -1,0 +1,8 @@
+# Files
+*.pyc
+*.zip
+
+# Directories
+.idea/
+venv3/
+__pycache__/
