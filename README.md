@@ -3,7 +3,7 @@
 The purpose of this api is to get the posts data from hatchways api and serve
 under /api/posts endpoint.
 
-###Pre-reqs:
+### Pre-reqs:
 * Python: 3.8+
 * OS: Linux
 
